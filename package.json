@@ -1,0 +1,26 @@
+{
+  "name": "llms-txt-markdown-rag-generator-cli",
+  "version": "2.0.0",
+  "description": "Convert any website or documentation portal into standard-compliant /llms.txt maps, clean Markdown, overlapping RAG chunks, and Schema.org JSON-LD metadata.",
+  "type": "module",
+  "main": "index.js",
+  "bin": {
+    "llms-txt-markdown-rag-generator-cli": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "llms-txt",
+    "markdown-converter",
+    "rag",
+    "web-crawler",
+    "technical-seo",
+    "json-ld",
+    "documentation-crawler",
+    "content-extraction",
+    "nodejs-cli",
+    "apify"
+  ],
+  "license": "MIT"
+}
